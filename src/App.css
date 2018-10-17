@@ -1,0 +1,35 @@
+html{
+  background: linear-gradient(#0f0c29, #302b63, #24243e);
+}
+
+#header{background: linear-gradient(#0f0c29, #302b63, #24243e);padding:20px;border-bottom: 1px solid black;}
+#toolbar{background: linear-gradient(#004e92, #000428);border-bottom: 1px solid black;color:white;margin-bottom: 20px;}
+#imgCanvas{background: linear-gradient(#004e92, #000428);padding:20px;border-radius: 5px;}
+
+#uploadBut{font-size: 24px;border-radius:5px;padding:10px;margin:10px;
+  background: linear-gradient(#004e92, #000428);color:white;}
+
+#workSpace{margin:auto;width:100%;}
+#imgSection{float:right;}
+#sidebar{float: right;padding:40px;border-left: 2px solid black; padding-bottom: 192px;border-bottom: 2px solid black;}
+
+.sideButton{font-size: 24px;padding:10px;border-radius: 5px;
+  color:white;background: linear-gradient(#004e92, #000428);margin:10px;}
+
+
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
